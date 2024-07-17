@@ -1,0 +1,7 @@
+
+.dropdown-item.logout-item {
+    color: red; 
+}
+.nav-link i {
+    color: gray; /* Cambia el color de los íconos a gris */
+}
